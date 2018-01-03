@@ -6,11 +6,16 @@
 
 ## **Technologies Used:**
 
-###### HTML
-###### CSS
-###### Javascript
+HTML
+CSS
+Javascript
 
 
+![Alt text](images/homepage.png?raw=true) 
 
+![Alt text](images/Easy\ Mode.png?raw=true) 
 
+![Alt text](images/game\ won.png?raw=true) 
+
+![Alt text](images/Try\ Again.png?raw=true) 
 
