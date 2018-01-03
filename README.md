@@ -6,9 +6,9 @@
 
 ## **Technologies Used:**
 
-HTML
+**HTML
 CSS
-Javascript
+Javascript**
 
 ## **Homepage**
 ![Alt text](images/homepage.png?raw=true) 
