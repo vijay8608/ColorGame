@@ -13,9 +13,9 @@ Javascript
 
 ![Alt text](images/homepage.png?raw=true) 
 
-![Alt text](images/Easy\ Mode.png?raw=true) 
+![Alt text](images/easy_mode.png?raw=true) 
 
-![Alt text](images/game\ won.png?raw=true) 
+![Alt text](images/game_won.png?raw=true) 
 
-![Alt text](images/Try\ Again.png?raw=true) 
+![Alt text](images/try_again.png?raw=true) 
 
