@@ -6,11 +6,11 @@
 
 ## **Technologies Used:**
 
-###### HTML
-###### CSS
-###### Javascript
+HTML
+CSS
+Javascript
 
 
-![Alt text](/relative/path/to/img.jpg?raw=true "Homepage")
+![Alt text](images/homepage.png?raw=true) 
 
 
