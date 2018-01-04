@@ -9,20 +9,20 @@ Guess the color of the mentioned RGB which ranges from (0, 0, 0) to (255, 255, 2
 
 ## **Technologies Used:**
 
-**HTML
-CSS
-Javascript
-Heroku**
+**HTML - markup language for creating web pages and web applications
+CSS    - used for describing the presentation of a document written in a markup language
+Javascript - client side scripting language for web pages
+Heroku - cloud platform as a service used as a web application deployment model.**
 
-## **Homepage**
+## Homepage
 ![Alt text](images/homepage.png?raw=true) 
 
-## **Easy Mode**
+## Easy Mode
 ![Alt text](images/easy_mode.png?raw=true) 
 
-## **Game Won**
+## Game Won
 ![Alt text](images/game_won.png?raw=true) 
 
-## **Try Again**
+## Try Again
 ![Alt text](images/try_again.png?raw=true) 
 
